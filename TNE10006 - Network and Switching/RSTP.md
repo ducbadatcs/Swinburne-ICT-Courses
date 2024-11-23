@@ -16,7 +16,7 @@ The **similarities of RSTP and STP** are as follows:
 
 **Port cost**, however, is different as follows:
 
-![RSTP port state](https://github.com/Catcurity123/TNE10006/blob/main/Picture/RSTP/SpanningTreeCost.png?raw=true)
+![RSTP port state](./Picture/RSTP/SpanningTreeCost.png)
 
 **RSTP port states** also simplify the port state of STP.
 
@@ -40,4 +40,4 @@ Unlike STP which will only allow root bridge to send BPDUs, RSTP send their own 
 
 Example of identifying **port role** and **link type**
 
-![example](https://github.com/Catcurity123/TNE10006/blob/main/Picture/RSTP/Example.png?raw=true)
+![example](./Picture/RSTP/Example.png)
