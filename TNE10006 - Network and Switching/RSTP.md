@@ -2,7 +2,7 @@
 ## Description
 There have been several versions of STP released over the years to improve convergence times and add features.
 
-![STP versions](https://github.com/Catcurity123/TNE10006/blob/main/Picture/RSTP/ListSpanningTree.png?raw=true)
+![STP versions](./Picture/RSTP/ListSpanningTree.png)
 
 
 ## Rapid Spanning Tree Protocol
